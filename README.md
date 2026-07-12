@@ -71,3 +71,47 @@ This dashboard enables healthcare stakeholders to:
 - Predictive healthcare analytics
 - SQL database integration
 - Tableau Server deployment
+
+---
+
+# 📸 Dashboard Preview
+
+## 🏥 Final Dashboard
+
+![Final Dashboard](images/final-dashboard.png)
+
+---
+
+## 🗺️ Geographic Distribution of Hospital Performance
+
+![Geographic Distribution](images/geographic-distribution.png)
+
+---
+
+## 📊 Average Hospital Performance by State
+
+![Average Hospital Performance](images/average-hospital-performance.png)
+
+---
+
+## 🏆 Top N States by Hospital Performance
+
+![Top N States](images/topn-states-performance.png)
+
+---
+
+## 🌳 Hospital Distribution by Ownership Type
+
+![Hospital Ownership](images/hospital-ownership-distribution.png)
+
+---
+
+## 📈 Hospital Effectiveness vs Patient Experience
+
+![Hospital Effectiveness](images/hospital-effectiveness-vs-patient-experience.png)
+
+---
+
+## 📉 Hospital Performance by Indicator Bucket & Emergency Services
+
+![Hospital Indicator](images/hospital-indicator-analysis.png)
